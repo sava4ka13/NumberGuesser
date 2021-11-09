@@ -3,7 +3,7 @@ My first Python project!
 
 This is a simple game where you have to guess randomaly generated number
 
-#How to use
+##How to use
 
 **1. Install colorama**
 
